@@ -11,7 +11,7 @@ Wir haben vergessen, die genauen Ergenbisse der HA auf heute anzugeben.
 
 ## Checkliste
 
-Ich habe die heute ausgeteilte [Checkliste](mathe/mitschriften_und_texte/checkliste1.pdf) hochgeladen.
+Ich habe die am 2025-10-14 ausgeteilte [Checkliste](mathe/mitschriften_und_texte/checkliste1.pdf) hochgeladen.
 
 # Über dieses Verzeichnis
 
