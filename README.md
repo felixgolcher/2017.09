@@ -1,17 +1,6 @@
 # Aktuelles
 
-## Ergebnisse HA auf Mittwoch
-
-Wir haben vergessen, die genauen Ergenbisse der HA auf heute anzugeben.
-
-* arithmetisches Mittel 13,23
-* Median 34,2
-* Beide Werte liegen ziemlich in der Mitte. Es handelt sich um eine Verteilung, die nicht extrem schief ist (s. Histogramm). Daher ist das arithmetische Mittel hier vorzuziehen. 
-![Histogramm unserer Daten](pics/eink.jpg)
-
-## Checkliste
-
-Ich habe die am 2025-10-14 ausgeteilte [Checkliste](mathe/mitschriften_und_texte/checkliste1.pdf) hochgeladen.
+Nichts, im Moment.
 
 # Über dieses Verzeichnis
 
