@@ -1,5 +1,7 @@
 # Aktuelles
 
+Die [Auswertung](mathe/mitschriften_und_texte/freier_fall.pdf) unseres Fallexperiments.
+
 Die heute ausgeteilten Blätter zum Koordinatenablesenüben sind hochgeladen als 11 verschiedene Versionen in [mathe/arbeitsmaterial](mathe/arbeitsmaterial). Sie fangen alle an mit `aufg-10-kosy-2026-01-29`.
 
 # Über dieses Verzeichnis
