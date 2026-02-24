@@ -1,5 +1,7 @@
 # Aktuelles
 
+[Mitschrift](mathe/mitschriften_und_texte/2026-02-24-funktionen.pdf) von Dienstag 2026-02-24.
+
 Die [Auswertung](mathe/mitschriften_und_texte/freier_fall.pdf) unseres Fallexperiments.
 
 Die 2026-02-24 ausgeteilten Blätter zum Koordinatenablesenüben sind hochgeladen als 11 verschiedene Versionen in [mathe/arbeitsmaterial](mathe/arbeitsmaterial). Sie fangen alle an mit `aufg-10-kosy-2026-01-29`.
