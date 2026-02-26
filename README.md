@@ -1,5 +1,7 @@
 # Aktuelles
 
+[Mitschrift](mathe/mitschriften_und_texte/2026-02-26-vertikal-verschobene-parabel.pdf) von 2026-02-26.
+
 [Mitschrift](mathe/mitschriften_und_texte/2026-02-24-funktionen.pdf) von Dienstag 2026-02-24.
 
 Die [Auswertung](mathe/mitschriften_und_texte/freier_fall.pdf) unseres Fallexperiments.
