@@ -1,5 +1,7 @@
 # Aktuelles
 
+Arbeitsblatt Nr [17](mathe/arbeitsmaterial/aufg-17-allgemein-2026-02-10.pdf) vom 2026-02-27.
+
 [Mitschrift](mathe/mitschriften_und_texte/2026-02-26-vertikal-verschobene-parabel.pdf) von 2026-02-26.
 
 [Mitschrift](mathe/mitschriften_und_texte/2026-02-24-funktionen.pdf) von Dienstag 2026-02-24.
