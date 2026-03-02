@@ -1,5 +1,7 @@
 # Aktuelles
 
+Mitschrift von [2026-03-02](/mathe/mitschriften_und_texte/2026-03-02-vertiefung.pdf).
+
 [Mitschrift](mathe/mitschriften_und_texte/2026-02-27-horizontal-verschobene-parabel.pdf) vom Freitag 2026-02-27.
 
 Arbeitsblatt Nr [17](mathe/arbeitsmaterial/aufg-17-allgemein-2026-02-10.pdf) vom 2026-02-27, [Lösung](mathe/arbeitsmaterial/aufg-17-allgemein-2026-02-10-loes.pdf). 
