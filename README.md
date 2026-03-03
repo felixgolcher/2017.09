@@ -1,5 +1,9 @@
 # Aktuelles
 
+Die [Checkliste](mathe/mitschriften_und_texte/checkliste4.pdf) für die kommende Klassenarbeit.
+
+Mitschrift von [2026-03-03](mathe/mitschriften_und_texte/2026-03-03-geflippte-verschobene-parabeln.pdf).
+
 Arbeitsblatt Nr. [18](mathe/arbeitsmaterial/aufg-18-verschobenxy-2026-02-10.pdf) von Montag 2026-03-03.
 
 Mitschrift von [2026-03-02](/mathe/mitschriften_und_texte/2026-03-02-vertiefung.pdf).
