@@ -1,9 +1,10 @@
 # Aktuelles
 
+Mitschrift von [2026-03-05](mathe/mitschriften_und_texte/2026-03-05-scheitelpunktform.pdf)
+
 Arbeitsblatt Nr. [20](mathe/arbeitsmaterial/aufg-20-parabeln-2026-03-05.pdf).
 
 Mitschrift von [2026-03-04](mathe/mitschriften_und_texte/2026-03-04-geflippte-verschobene-parabeln.pdf).
-
 
 Arbeitsblatt Nr. [19](mathe/arbeitsmaterial/aufg-19-freierfall-2026-03-04.pdf) von Dienstag 2026-03-04. [Lösung]([19](mathe/arbeitsmaterial/aufg-19-freierfall-2026-03-04.pdf))
 
