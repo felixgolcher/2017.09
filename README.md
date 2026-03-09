@@ -1,5 +1,7 @@
 # Aktuelles
 
+Arbeitsblatt [22](mathe/arbeitsmaterial/aufg-22-nullstellen-2026-03-09_1.pdf) Variante 1. Alle anderen Varianten sind im selben Verzeichnis.
+
 Mitschrift von [2026-03-05](mathe/mitschriften_und_texte/2026-03-05-scheitelpunktform.pdf)
 
 Arbeitsblatt Nr. [20](mathe/arbeitsmaterial/aufg-20-parabeln-2026-03-05.pdf).
