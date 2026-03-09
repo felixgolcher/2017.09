@@ -1,5 +1,8 @@
 # Aktuelles
 
+
+Mitschrift von [2026-03-09](mathe/mitschriften_und_texte/2026-03-09-parabel-normalform.pdf)
+
 Arbeitsblatt [23](mathe/arbeitsmaterial/aufg-23-kde-2026-03-09.pdf).
 
 Arbeitsblatt [22](mathe/arbeitsmaterial/aufg-22-nullstellen-2026-03-09_1.pdf) Variante 1. Alle anderen Varianten sind im selben Verzeichnis.
