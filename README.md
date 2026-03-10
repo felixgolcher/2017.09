@@ -1,5 +1,14 @@
 # Aktuelles
 
+## Syrakus
+
+Hier gibt es verschiedene Dateien: 
+* Zum Einen [die Rahmengeschichte](mathe/arbeitsmaterial/story-syrakus.pdf). 
+* Das 1. ausgeteilte Blatt war Seite 32 aus dem [8.-Klass-Buch](mathe/arbeitsmaterial/buch-8-scans.pdf). 
+* Dann folgte [Arbeitsblatt 24](mathe/arbeitsmaterial/aufg-24-binom-2026-03-10.pdf). Zu diesem gibt es eine [Lösung](mathe/arbeitsmaterial/aufg-24-binom-2026-03-10-loes.pdf). 
+* Als nächstes haben wir Aufgaben von Seite 130 aus dem [9.-Klass-Buch](mathe/arbeitsmaterial/buch-9-scans.pdf) bearbeitet.
+* Den Abschluss bildete [Arbeitsblatt 25](mathe/arbeitsmaterial/aufg-25-quaderg-2026-03-10.pdf)
+* Die Auswahl der [Aufgaben und die Reihenfolge](mathe/arbeitsmaterial/ablauf-syrakus.pdf). 
 
 Mitschrift von [2026-03-09](mathe/mitschriften_und_texte/2026-03-09-parabel-normalform.pdf)
 
