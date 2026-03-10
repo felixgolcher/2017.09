@@ -1,6 +1,6 @@
 # Aktuelles
 
-## Syrakus
+#### Syrakus
 
 Hier gibt es verschiedene Dateien: 
 * Zum Einen [die Rahmengeschichte](mathe/arbeitsmaterial/story-syrakus.pdf). 
