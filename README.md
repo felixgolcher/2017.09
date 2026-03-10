@@ -1,5 +1,7 @@
 # Aktuelles
 
+Mitschrift von [2026-03-10](mathe/mitschriften_und_texte/2026-03-10-quadratische-ergaenzung.pdf)
+
 #### Syrakus
 
 Hier gibt es verschiedene Dateien: 
