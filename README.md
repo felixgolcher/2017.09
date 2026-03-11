@@ -1,5 +1,7 @@
 # Aktuelles
 
+Arbeitsblatt [27](mathe/arbeitsmaterial/aufg-27-scheitel-normalform-2026-03-11.pdf).
+
 Mitschrift von [2026-03-10](mathe/mitschriften_und_texte/2026-03-10-quadratische-ergaenzung.pdf)
 
 #### Syrakus
