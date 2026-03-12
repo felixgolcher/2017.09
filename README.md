@@ -3,7 +3,7 @@
 
 Mitschrift von [2026-03-11](mathe/mitschriften_und_texte/2026-03-11-zusammenfassung.pdf)
 
-Arbeitsblatt [27](mathe/arbeitsmaterial/aufg-27-scheitel-normalform-2026-03-11.pdf).
+Arbeitsblatt [27](mathe/arbeitsmaterial/aufg-27-scheitel-normalform-2026-03-11.pdf). [Lösung](mathe/arbeitsmaterial/loes-27-scheitel-normalform-2026-03-11.pdf)
 
 Mitschrift von [2026-03-10](mathe/mitschriften_und_texte/2026-03-10-quadratische-ergaenzung.pdf)
 
