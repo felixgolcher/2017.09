@@ -1,5 +1,6 @@
 # Aktuelles
 
+Arbeitsblatt [28](mathe/arbeitsmaterial/aufg-28-schnittpunkt-2026-03-17.pdf).
 
 Mitschrift von [2026-03-11](mathe/mitschriften_und_texte/2026-03-11-zusammenfassung.pdf)
 
