@@ -1,5 +1,11 @@
 # Aktuelles
 
+* Arbeitsblatt [7](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11-loes.pdf).
+* Arbeitsblatt [8](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19-loes.pdf).
+* Arbeitsblatt [9](mathe/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11-loes.pdf).
+* Arbeitsblatt [10](mathe/arbeitsmaterial/aufg-10-fluss-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-10-fluss-2026-05-11-loes.pdf).
+* Arbeitsblatt [11](mathe/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11.pdf).
+
 Arbeitsblatt [28](mathe/arbeitsmaterial/aufg-28-schnittpunkt-2026-03-17.pdf).
 
 Mitschrift von [2026-03-11](mathe/mitschriften_und_texte/2026-03-11-zusammenfassung.pdf)
