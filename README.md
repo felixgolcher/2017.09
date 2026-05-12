@@ -1,12 +1,13 @@
 # Aktuelles
 
+## 2026-05-12
 
 * Arbeitsblatt [12](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12-loes.pdf).
 * Arbeitsblatt [13](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12-loes.pdf).
 * Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
 * Hausaufgabe: Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
 
-
+## 2026-05-11
 
 * Arbeitsblatt [7](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11-loes.pdf).
 * Arbeitsblatt [8](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19-loes.pdf).
