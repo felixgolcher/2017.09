@@ -1,10 +1,18 @@
 # Aktuelles
 
+
+* Arbeitsblatt [12](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12-loes.pdf).
+* Arbeitsblatt [13](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12-loes.pdf).
+* Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
+* Hausaufgabe: Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
+
+
+
 * Arbeitsblatt [7](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-07-wh-2026-05-11-loes.pdf).
 * Arbeitsblatt [8](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-08-vektor-2025-11-19-loes.pdf).
 * Arbeitsblatt [9](mathe/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11-loes.pdf).
 * Arbeitsblatt [10](mathe/arbeitsmaterial/aufg-10-fluss-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-10-fluss-2026-05-11-loes.pdf).
-* Arbeitsblatt [11](mathe/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11.pdf).
+* Arbeitsblatt [11](mathe/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11-loes.pdf).
 
 Arbeitsblatt [28](mathe/arbeitsmaterial/aufg-28-schnittpunkt-2026-03-17.pdf).
 
