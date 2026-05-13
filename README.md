@@ -1,11 +1,17 @@
 # Aktuelles
 
+## 2026-05-13
+
+* Arbeitsblatt [17](mathe/arbeitsmaterial/aufg-17-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-17-beschleunigung-tab-2026-05-13-loes.pdf).
+* Arbeitsblatt [18](mathe/arbeitsmaterial/aufg-18-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-18-beschleunigung-tab-2026-05-13-loes.pdf).
+
+
 ## 2026-05-12
 
 * Arbeitsblatt [12](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12-loes.pdf).
 * Arbeitsblatt [13](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12-loes.pdf).
 * Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
-* Hausaufgabe: Arbeitsblatt [14](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
+* Hausaufgabe: Arbeitsblatt [15](mathe/arbeitsmaterial/aufg-15-beschleunigung-ha-2026-05-12.pdf) mit [Lösung](mathe/arbeitsmaterial/aufg-15-beschleunigung-ha-2026-05-12-loes.pdf).
 
 ## 2026-05-11
 
