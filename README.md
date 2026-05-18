@@ -2,24 +2,24 @@
 
 ## 2026-05-13
 
-* Arbeitsblatt [17](physik/arbeitsmaterial/aufg-17-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-17-beschleunigung-tab-2026-05-13-loes.pdf).
-* Arbeitsblatt [18](physik/arbeitsmaterial/aufg-18-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-18-beschleunigung-tab-2026-05-13-loes.pdf).
+* Arbeitsblatt [17](physik/arbeitsblaetter/aufg-17-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-17-beschleunigung-tab-2026-05-13-loes.pdf).
+* Arbeitsblatt [18](physik/arbeitsblaetter/aufg-18-beschleunigung-tab-2026-05-13.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-18-beschleunigung-tab-2026-05-13-loes.pdf).
 
 
 ## 2026-05-12
 
-* Arbeitsblatt [12](physik/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-12-beschleunigung-2026-05-12-loes.pdf).
-* Arbeitsblatt [13](physik/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-13-beschleunigung-2026-05-12-loes.pdf).
-* Arbeitsblatt [14](physik/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-14-beschleunigung-2026-05-12-loes.pdf).
-* Hausaufgabe: Arbeitsblatt [15](physik/arbeitsmaterial/aufg-15-beschleunigung-ha-2026-05-12.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-15-beschleunigung-ha-2026-05-12-loes.pdf).
+* Arbeitsblatt [12](physik/arbeitsblaetter/aufg-12-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-12-beschleunigung-2026-05-12-loes.pdf).
+* Arbeitsblatt [13](physik/arbeitsblaetter/aufg-13-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-13-beschleunigung-2026-05-12-loes.pdf).
+* Arbeitsblatt [14](physik/arbeitsblaetter/aufg-14-beschleunigung-2026-05-12.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-14-beschleunigung-2026-05-12-loes.pdf).
+* Hausaufgabe: Arbeitsblatt [15](physik/arbeitsblaetter/aufg-15-beschleunigung-ha-2026-05-12.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-15-beschleunigung-ha-2026-05-12-loes.pdf).
 
 ## 2026-05-11
 
-* Arbeitsblatt [7](physik/arbeitsmaterial/aufg-07-wh-2026-05-11.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-07-wh-2026-05-11-loes.pdf).
-* Arbeitsblatt [8](physik/arbeitsmaterial/aufg-08-vektor-2025-11-19.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-08-vektor-2025-11-19-loes.pdf).
-* Arbeitsblatt [9](physik/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-09-fahrradtreffen-2026-05-11-loes.pdf).
-* Arbeitsblatt [10](physik/arbeitsmaterial/aufg-10-fluss-2026-05-11.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-10-fluss-2026-05-11-loes.pdf).
-* Arbeitsblatt [11](physik/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11.pdf) mit [Lösung](physik/arbeitsmaterial/aufg-11-geschwindigkeiten-2026-05-11-loes.pdf).
+* Arbeitsblatt [7](physik/arbeitsblaetter/aufg-07-wh-2026-05-11.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-07-wh-2026-05-11-loes.pdf).
+* Arbeitsblatt [8](physik/arbeitsblaetter/aufg-08-vektor-2025-11-19.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-08-vektor-2025-11-19-loes.pdf).
+* Arbeitsblatt [9](physik/arbeitsblaetter/aufg-09-fahrradtreffen-2026-05-11.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-09-fahrradtreffen-2026-05-11-loes.pdf).
+* Arbeitsblatt [10](physik/arbeitsblaetter/aufg-10-fluss-2026-05-11.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-10-fluss-2026-05-11-loes.pdf).
+* Arbeitsblatt [11](physik/arbeitsblaetter/aufg-11-geschwindigkeiten-2026-05-11.pdf) mit [Lösung](physik/arbeitsblaetter/aufg-11-geschwindigkeiten-2026-05-11-loes.pdf).
 
 Arbeitsblatt [28](mathe/arbeitsmaterial/aufg-28-schnittpunkt-2026-03-17.pdf).
 
