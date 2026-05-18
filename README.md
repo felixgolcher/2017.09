@@ -2,6 +2,7 @@
 
 ## 2026-05-18
 
+* Hausaufgabe: Arbeitsblatt [22](physik/arbeitsblaetter/aufg-22-steigung-2026-05-17.pdf) (Geschwindigkeit aus der Steigung).
 * Hausaufgabe: Arbeitsblatt [21](physik/arbeitsblaetter/aufg-21-einheiten-2026-05-17.pdf)
 
 
