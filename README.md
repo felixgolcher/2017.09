@@ -2,7 +2,7 @@
 
 ## 2026-05-19
 
-* Arbeitsblatt [23](/physik/arbeitsblaetter/aufg-23-proportional-2026-05-18.pdf), Einführung Wiederholung Proportionalität/Antiproportionalität.
+* Arbeitsblatt [23](/physik/arbeitsblaetter/aufg-23-proportional-2026-05-18.pdf), Einführung Wiederholung Proportionalität/Antiproportionalität. [Lösung](/physik/arbeitsblaetter/aufg-23-proportional-2026-05-18-loes.pdf)
 
 ## 2026-05-18
 
