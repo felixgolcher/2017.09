@@ -2,6 +2,7 @@
 
 ## 2026-05-19
 
+* [Checkliste](physik/mitschriften_und_texte/checklist2.pdf) für die 2. Klassenarbeit.
 * Arbeitsblatt [23](/physik/arbeitsblaetter/aufg-23-proportional-2026-05-18.pdf), Einführung Wiederholung Proportionalität/Antiproportionalität. [Lösung](/physik/arbeitsblaetter/aufg-23-proportional-2026-05-18-loes.pdf)
 
 ## 2026-05-18
