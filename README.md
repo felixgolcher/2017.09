@@ -2,6 +2,7 @@
 
 ## 2026-05-20
 
+* Hausaufgabe: Arbeitsblatt [26](/physik/arbeitsblaetter/aufg-26-ha-gewichtskraft-2026-05-20.pdf) zur Gewichtskraft.
 * Arbeitsblatt [24](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18.pdf) zur Proportionalität in der Physik. Die [Lösung](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18-loes.pdf) dazu.
 
 ## 2026-05-19
