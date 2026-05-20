@@ -1,5 +1,9 @@
 # Aktuelles
 
+## 2026-05-20
+
+* Arbeitsblatt [24](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18.pdf) zur Proportionalität in der Physik. Die [Lösung](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18-loes.pdf) dazu.
+
 ## 2026-05-19
 
 * [Checkliste](physik/mitschriften_und_texte/checklist2.pdf) für die 2. Klassenarbeit.
