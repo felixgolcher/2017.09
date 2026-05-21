@@ -1,8 +1,13 @@
 # Aktuelles
 
+## 2026-05-21
+
+* Hausaufgabe: Arbeitsblatt [30](/physik/arbeitsblaetter/aufg-30-ha-fallen-2026-05-21.pdf) zum 2. Newtonschen Gesetz.
+
+
 ## 2026-05-20
 
-* Hausaufgabe: Arbeitsblatt [26](/physik/arbeitsblaetter/aufg-26-ha-gewichtskraft-2026-05-20.pdf) zur Gewichtskraft.
+* Hausaufgabe: Arbeitsblatt [26](/physik/arbeitsblaetter/aufg-26-ha-gewichtskraft-2026-05-20.pdf) zur Gewichtskraft. [Lösung](/physik/arbeitsblaetter/aufg-26-ha-gewichtskraft-2026-05-20-loes.pdf).
 * Arbeitsblatt [24](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18.pdf) zur Proportionalität in der Physik. Die [Lösung](/physik/arbeitsblaetter/aufg-24-proportional2-2026-05-18-loes.pdf) dazu.
 
 ## 2026-05-19
