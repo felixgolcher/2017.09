@@ -1,5 +1,9 @@
 # Aktuelles
 
+## 2026-05-27
+
+Neue Blätter und Hausaufgaben für heute unter `physik > arbeitsblaetter`.
+
 ## 2026-05-21
 
 * Hausaufgabe: Arbeitsblatt [30](/physik/arbeitsblaetter/aufg-30-ha-fallen-2026-05-21.pdf) zum 2. Newtonschen Gesetz.
